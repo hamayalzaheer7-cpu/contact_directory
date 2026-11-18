@@ -1,0 +1,16 @@
+body {
+  background-color: #f4f4f4;
+}
+
+h2 {
+  font-weight: bold;
+}
+
+.card {
+  border: none;
+  border-radius: 10px;
+}
+
+input {
+  padding: 12px !important;
+}
