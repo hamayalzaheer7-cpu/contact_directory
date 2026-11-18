@@ -1,5 +1,5 @@
 body {
-  background-color: #f4f4f4;
+  background-color: white;
 }
 
 h2 {
@@ -12,5 +12,5 @@ h2 {
 }
 
 input {
-  padding: 12px !important;
+  padding: 12px;
 }
